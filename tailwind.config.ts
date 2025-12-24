@@ -14,9 +14,9 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Plus Jakarta Sans', 'Noto Sans Tamil', 'system-ui', 'sans-serif'],
-        heading: ['Plus Jakarta Sans', 'Noto Sans Tamil', 'system-ui', 'sans-serif'],
-        tamil: ['Noto Sans Tamil', 'system-ui', 'sans-serif'],
+        sans: ['Outfit', 'Mukta', 'system-ui', 'sans-serif'],
+        heading: ['Outfit', 'Mukta', 'system-ui', 'sans-serif'],
+        tamil: ['Mukta', 'system-ui', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
